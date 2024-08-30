@@ -12,5 +12,6 @@ In this repository you will be turning in your cookie clicker sim created on MIT
    ![image](https://github.com/user-attachments/assets/82148b23-e8b0-470d-9832-3953cf7efa17)
 
 6. Add a quick reflection(2 sentences) about what was difficult __Place on Readme__
+
 Getting the cookie to be centered on the screen was hard, and I'm still not sure if it works properly and why it didn't/won't work. 
 I also tried adding a cursor tower as well, but it was broken for seemingly no reason. (The blocks are in the backpack)
